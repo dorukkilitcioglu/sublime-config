@@ -1,0 +1,24 @@
+// SublimeLinter Settings - User
+{
+    "linters": {
+        "flake8": {
+            "@disable": false,
+            "args": ["--ignore=E501,E127,E128,E261,E402"],
+            "builtins": "",
+            "excludes": [],
+            "executable": "",
+            "jobs": "1",
+            "max-complexity": -1,
+            "max-line-length": null,
+            "select": "",
+            "show-code": false
+        },
+    },
+    "paths": {
+        "linux": [
+            "/home/doruk/miniconda3/bin/"
+        ],
+        "osx": [],
+        "windows": []
+    },
+}

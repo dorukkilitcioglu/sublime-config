@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Ada",
+		"Anaconda",
+		"Babel",
+		"GitGutter",
+		"Jedi - Python autocompletion",
+		"Markdown Preview",
+		"Package Control",
+		"Racket",
+		"requirementstxt",
+		"rsub",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
+		"Theme - Flatland"
+	]
+}

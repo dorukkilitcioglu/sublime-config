@@ -1,0 +1,8 @@
+// These settings override both User and Default settings for the Python syntax
+{
+    "auto_indent": true,
+    "trim_automatic_white_space": true,
+    "word_wrap": true,
+    "wrap_width": 120,
+    "auto_complete_triggers": [{"selector": "source.python", "characters": "."}],
+}
